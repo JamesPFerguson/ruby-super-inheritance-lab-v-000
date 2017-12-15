@@ -12,7 +12,7 @@ class ChattyStudent
       puts "Pick me!"
     end
   end
-  
+
 
 
 
